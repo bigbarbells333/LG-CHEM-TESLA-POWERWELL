@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+ 
+<!--
+CSS CODES
+-->
+
+
+
+
+<style>
+a {
+  color: gold;
+  background-color: transparent;
+  text-decoration: none;
+    } 
+  h5 {
+    color: gray
+  }
+ body {
+  background-image: url("https://2.bp.blogspot.com/-MjP_I5UbufE/XLXyrmFGNGI/AAAAAAAANKE/AduMGGC9m78nBdfdCaPd6sfIHXXAN4XewCLcBGAs/s2560/landscape-outdoor-mountains-galaxy-4k-u3-2048x2048.jpg");
+   background-repeat: no-repeat;
+  }
+  h1{
+ 
+    color: white
+  }
+p
+  {
+    line-heigh: 10px;
+    color: white;
+  }
+  ul{
+    color: white
+  }
+  h2{
+    color: white
+  }
+  label{
+    color: white
+  }
+  h4{
+    color: white
+  }
+  
+  
+  
+</style>
+ 
+
+<!-- HTML CODE 
+-->
+
+
+<html lang="en">
+  
+  
+  <head>
+   
+    
+  <title>LG/Tesla Solar Batteries</title>
+     
+
+    <center><h1>LG Chem Batteries/Tesla Batteries</h1></center>
+    </head>
+    
+    
+    
+    <body>
+    
+    
+    <center><a href="https://www.sempersolaris.com/wp-content/uploads/2019/10/Tesla-VS-LG-Battery-1200x900.jpg"><img src="https://www.sempersolaris.com/wp-content/uploads/2019/10/Tesla-VS-LG-Battery-1200x900.jpg" height="500px" width="500px">
+      </a></center>
+         
+    <center><h1>
+     LG Chem Battery 
+      </h1></center>
+
+ <center><p>
+   The LG Chem RESU battery is a lithium-ion battery intended to capture solar energy and store it for later use in residential settings. Like many of the batteries currently on the market, the pack aims to store excess energy that is collected during a home’s lowest energy consumption period and disperse it during peak energy consumption periods. It is a day-to-day battery pack, meaning it expects to charge and discharge over a traditional 24-hour period.
+   </p></center>
+    <h2>
+      <center>Pros of LG Chem</center>
+    </h2>
+    <ul>
+      <li>The LG Chem is an excellent battery option that offers a variety of positive attributes to homeowners who are looking to harness the power of solar energy.
+      </li>
+      <li>9.3 kWh is an intermediate size battery that is adequate for most home setups.
+      </li>
+      <li>With futuristic styling it is a relatively unobtrusive addition, aesthetically speaking.
+      </li>
+    </ul>
+    
+    <h2>
+      <center>Cons of LG Chem </center>
+    </h2>
+    <ul>
+      <li>The average cost of the LG Chem system, including supporting equipment and installation ranges from $11,000 to $13,000 depending on location and installation charges.
+      </li>
+      <li>The LG Chem comes with a warranty that ensures the battery will work to 60% capacity over a 10-year period, which is less competitive than warranties offered on similar sized units from other producers.
+      </li>
+    </ul>
+     
+    <h4>
+      <center>For Installation Prices By Titan Solar Power Refer <a href="#Down-Below">Down Below
+        </a></center>
+    </h4>
+     
+    
+    <br>
+    <center><h1>
+      Tesla Powerwells
+      </h1></center>
+    <center><p>
+      Based in Palo Alto, Tesla is a leader in the solar energy sector. In 2015, the company announced their Powerwall battery packs for home and industrial use. Since then, they have worked to offer larger capacity batteries that not only work more efficiently but offer consumers the ability to manipulate their energy usage manually. The current Powerwall 2.0 comes in a variety of configurations for both home and industrial usage, but the 13.5 kWh system is the most widely installed battery backup for home use.
+      </p></center>
+    <br>
+    <h2>
+      <center>Pros of Tesla Batteries </center>
+    </h2>
+     
+  
+    
+    <ul>
+      <li>At around $7,800 with supporting hardware, the 13.5 kWh system is one of the most economical options on the market.
+      </li>
+      <li>Intelligent software and time-based controls allow the owner of the system to manually manage their consumption, lowering bills and minimizing the cost of electricity throughout the day.
+      </li>
+      <li> A 10-year warranty ensures that the battery will charge to at least 70% of its capacity for the 10-year life of the battery.
+      </li>
+    </ul>
+   
+    <h2>
+      <center>Cons of Tesla Batteries </center>
+    </h2>
+    <ul>
+      <li>The battery backup does not allow solar panel owners to take advantage of net metering offerings.
+      </li>
+      <li>The 13.5 kWh battery may not fully charge during the winter months or storm seasons, meaning the larger capacity backup battery system may not be fully utilized for much of the year.
+      </li>
+      
+    </ul>
+    
+    <h4>
+      <center>For Installation Prices By Titan Solar Power Refer <a href="#Down-Below">Down Below
+        </a></center>
+    </h4>
+    <center><input type="text" placeholder="Your Name">
+    <br>
+    <br>
+    <input type="text" placeholder="Your Email">
+    <br>
+    <br>
+      <form action="/submit-LGvsTESLA"></form>
+      <center><input type="text" placeholder="Your Phone"></center>
+      <br>
+        <label for="LGCHEM"><input id="LGCHEM" type="radio" name="LGvsTESLA"> LG CHEM</label></center>  
+     <br>
+      <center><label for="TESLAPOWERWELLS"><input id="TESLAPOWERWELLS" type="radio" name="LGvsTESLA"> TESLA POWERWELLS
+</label></center>
+   <br>
+    
+<center><input type="button" onclick="alert('THANKS YOU FOR CHOICING TITAN SOLAR POWER')" value="SUBMIT INFO"></center>
+        <br>
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div style="background-color:black;color:white;padding:20px;">
+    
+      
+   <center><h3 id="Down-Below">CONTACT US
+     </h3>
+    <p>
+      AZ#284331 NM#393719 TX#32912 NV#84903
+      <br>
+      FL#EC13008093 CA#371982 CO#EC.0101592
+    <br>
+    <br>
+      525 W Baseline Rd, Mesa, AZ 85210
+    <br>
+    <br>
+      <b>Phone:
+      </b>
+    1-855-SAY-SOLAR
+     <br> 
+    <br>
+      <b>EMAIL: </b>
+     <a href="info@titansolarpower.com">info@titansolarpower.com
+      </a>
+      <br><br>
+      <b><a href="https://titansolarpower.com">FOR MORE INFORMATION ON INSTALLATION </a></b>
+     
+     
+     </p></center>
+    
+    <h5>
+      Titan Solar Power &#169; Copyright 2019
+      </h5>
+      
+      
+    
+    
+    
+    <!-- include the Glitch button to show what the webpage is about and
+          to make it easier for folks to view source and remix -->
+    <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
+    <script src="https://button.glitch.me/button.js"></script>
+  </body>
+</html>
